@@ -1,6 +1,6 @@
 ﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ConsoleApplication1.vcxproj, Resolution_modifier.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   gamma_correction.cpp
-C:\Users\NVIDIA\Desktop\vision_por_computadora\Libreria de programas\gamma_correction\ConsoleApplication1\gamma_correction.cpp(20,30): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
-C:\Users\NVIDIA\Desktop\vision_por_computadora\Libreria de programas\gamma_correction\ConsoleApplication1\gamma_correction.cpp(20,25): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
-C:\Users\NVIDIA\Desktop\vision_por_computadora\Libreria de programas\gamma_correction\ConsoleApplication1\gamma_correction.cpp(22,20): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
-  ConsoleApplication1.vcxproj -> C:\Users\NVIDIA\Desktop\vision_por_computadora\Libreria de programas\gamma_correction\x64\Debug\gamma_correction.exe
+C:\Users\NVIDIA\Desktop\vision_por_computadora\Libreria de programas\template\gamma_correction\ConsoleApplication1\gamma_correction.cpp(22,30): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\NVIDIA\Desktop\vision_por_computadora\Libreria de programas\template\gamma_correction\ConsoleApplication1\gamma_correction.cpp(22,25): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\NVIDIA\Desktop\vision_por_computadora\Libreria de programas\template\gamma_correction\ConsoleApplication1\gamma_correction.cpp(24,20): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+  ConsoleApplication1.vcxproj -> C:\Users\NVIDIA\Desktop\vision_por_computadora\Libreria de programas\template\gamma_correction\x64\Debug\gamma_correction.exe
